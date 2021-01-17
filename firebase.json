@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/Travelgram",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
